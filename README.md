@@ -50,6 +50,24 @@ los valores pueden ser distintos tipos de datos,como:
 
 -cadenas de texto (str) : "hola", ´python`.
 
+# Programa que calcula el promedio de una lista de números
+
+def calcular_promedio(numeros):
+    if not numeros:
+        return 0
+    return sum(numeros) / len(numeros)
+
+# Ejemplo de uso
+lista = [10, 20, 30, 40, 50]
+promedio = calcular_promedio(lista)
+
+print(f"La lista es: {lista}")
+print(f"El promedio es: {promedio}")
+
+
+
+
+
 
 
 
