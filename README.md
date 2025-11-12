@@ -58,11 +58,26 @@ def calcular_promedio(numeros):
     return sum(numeros) / len(numeros)
 
 # Ejemplo de uso
+
+
 lista = [10, 20, 30, 40, 50]
 promedio = calcular_promedio(lista)
 
 print(f"La lista es: {lista}")
 print(f"El promedio es: {promedio}")
+
+
+# resumen de aprendizaje
+
+es impresionante como pude aprender sobre estos temas tratados en la materia pensamiento algoritmico
+aprendi como podemos trabajar creando variables con opreaciones matematicas y texto,
+los diferentes tiposa de lenguajes que tambien podemos trabajar, mi meta es poner en practica cada uno de estos 
+conceptos y herramientas para avanzar cada dia en mi  proyecto de vida.
+
+
+
+
+
 
 
 
