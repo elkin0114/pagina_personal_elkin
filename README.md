@@ -83,3 +83,7 @@ es impresionante como pude aprender sobre estos temas tratados en la materia pen
 aprendi como podemos trabajar creando variables con opreaciones matematicas y texto,
 los diferentes tiposa de lenguajes que tambien podemos trabajar, mi meta es poner en practica cada uno de estos 
 conceptos y herramientas para avanzar cada dia en mi  proyecto de vida.
+
+
+
+https://github.com/elkin0114/pagina_personal_elkin/commit/9c1e3cecd6e498299aecc81ac2ec34bba3da9d67
